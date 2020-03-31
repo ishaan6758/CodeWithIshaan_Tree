@@ -33,6 +33,8 @@ class Solution {
            }
         }
 
+
+//main function this is the nonrecursive method which helps to analyze it with the help of a stack 
     void inOrder(Node *root) {
         stack <Node* > s;
 
